@@ -4,7 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ejercicio1": "node Ejercicios/ejercicio1.js",
+    "ejercicio2": "node Ejercicios/ejercicio2.js",
+    "ejercicio3": "node Ejercicios/ejercicio3.js",
+    "ejercicio4": "node Ejercicios/ejercicio4.js",
+    "ejercicio5": "node Ejercicios/ejercicio5.js",
+    "ejercicio6": "node Ejercicios/ejercicio6.js",
+    "ejercicio7": "node Ejercicios/ejercicio7.js",
+    "ejercicio8": "node Ejercicios/ejercicio8.js",
+    "ejercicio9": "node Ejercicios/ejercicio9.js",
+    "ejercicio10": "node Ejercicios/ejercicio10.js"
   },
   "keywords": [],
   "author": "",
